@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Here's a [link to Coifman's paper](https://papers.nips.cc/paper/2942-diffusion-maps-spectral-clustering-and-eigenfunctions-of-fokker-planck-operators.pdf)
 
+![alt text](/Users/richardwolff/Desktop/Rabadan Labs/ALL/Relative Contribution Relapse.png "Title")
+
 ### Markdown
 
 Just fucking around
@@ -13,7 +15,8 @@ Just fucking around
 
 ```markdown
 Syntax highlighted code block
-[alt text](/Users/richardwolff/Desktop/Rabadan Labs/ALL/Relative Contribution Relapse.png "Title")
+
+![alt text](/Users/richardwolff/Desktop/Rabadan Labs/ALL/Relative Contribution Relapse.png "Title")
 
 ## Header 2
 ### Header 3
