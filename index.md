@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## The Diffusion Graph Metric
 
 You can use the [editor on GitHub](https://github.com/rtw2123/Diffusion-Graph-Metric/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Here's a [link to Coifman's paper](https://papers.nips.cc/paper/2942-diffusion-maps-spectral-clustering-and-eigenfunctions-of-fokker-planck-operators.pdf)
 
 ### Markdown
 
