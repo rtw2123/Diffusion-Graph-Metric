@@ -10,7 +10,7 @@ Here's a [link to Coifman's paper](https://papers.nips.cc/paper/2942-diffusion-m
 
 Just fucking around
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[alt text](/Users/richardwolff/Desktop/Rabadan Labs/ALL/Relative Contribution Relapse.png "Title")
 
 ```markdown
 Syntax highlighted code block
