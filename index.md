@@ -10,10 +10,10 @@ Here's a [link to Coifman's paper](https://papers.nips.cc/paper/2942-diffusion-m
 
 Just fucking around
 
-[alt text](/Users/richardwolff/Desktop/Rabadan Labs/ALL/Relative Contribution Relapse.png "Title")
 
 ```markdown
 Syntax highlighted code block
+[alt text](/Users/richardwolff/Desktop/Rabadan Labs/ALL/Relative Contribution Relapse.png "Title")
 
 ## Header 2
 ### Header 3
