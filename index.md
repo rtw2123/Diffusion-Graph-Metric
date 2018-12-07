@@ -10,10 +10,10 @@ Here's a [link to Coifman's paper](https://papers.nips.cc/paper/2942-diffusion-m
 
 Just fucking around
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ```markdown
 Syntax highlighted code block
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Header 2
 ### Header 3
